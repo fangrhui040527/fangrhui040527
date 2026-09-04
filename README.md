@@ -39,4 +39,4 @@ Twenty-three systems, with the problem, the decisions and the trade-offs behind 
 
 Most of this work lives in private repositories. Happy to walk through any of it, or grant read access on request.
 
-[Portfolio](https://fangrhui-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/fang-rhui-foo-41b00738b/) · [Email](mailto:fangrhui040527@gmail.com)
+[Portfolio](https://fangrhui.me/) · [LinkedIn](https://www.linkedin.com/in/fang-rhui-foo-41b00738b/) · [Email](mailto:fangrhui040527@gmail.com)
