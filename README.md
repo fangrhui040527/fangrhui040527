@@ -16,7 +16,7 @@ Twenty-three systems, with the problem, the decisions and the trade-offs behind 
 
 ### Before
 
-**AI Automation Engineer at SRKK AI Berhad.** Ten-plus production agents for enterprise clients across energy, healthcare, legal and technology:
+**AI Automation Engineer at SRKK AI Berhad.** Ten-plus production agents for enterprise clients across energy, healthcare, legal and technology.
 
 **Reading** BSc Computer Science, Major in Data Science — University of Wollongong Malaysia, 2027
 
