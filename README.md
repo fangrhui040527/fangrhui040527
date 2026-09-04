@@ -4,7 +4,7 @@
 
 I build multi-agent AI systems for work where being wrong is expensive. The guardrails live in code rather than in prompts — nothing spends money or goes public until a person approves it, and when a system cannot know something it says so instead of inventing an answer that merely sounds right.
 
-### → [fangrhui-portfolio.vercel.app](https://fangrhui-portfolio.vercel.app)
+### → [fangrhui-portfolio](https://fangrhui.me/)
 
 Twenty-three systems, with the problem, the decisions and the trade-offs behind three of them.
 
